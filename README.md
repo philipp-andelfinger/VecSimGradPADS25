@@ -1,4 +1,4 @@
-Source code for the experiments in the paper "Slight Stochastic Shifts Suffice: Cross-Trajectory Vectorized Estimation of Simulation Gradients", submitted to ACM SIGSIM PADS'25
+Source code for the experiments in the paper "Slight Stochastic Shifts Suffice: Cross-Trajectory Vectorized Estimation of Simulation Gradients", accepted at ACM SIGSIM PADS'25
 
 vfloat types and vectorized nested branching via predication are implemented in 'vfloat.hpp'.
 
